@@ -1,0 +1,11 @@
+{
+	"name": "binal/ratchet_chatapp",
+    "require": {
+        "cboden/ratchet": "dev-master"
+    },
+    "autoload": {
+        "psr-0": {
+            "ChatApp": "class"
+        }
+    }
+}
